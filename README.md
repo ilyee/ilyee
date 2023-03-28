@@ -5,4 +5,3 @@ Now focusing on Kubernetes and Docker
 [patreon-badge]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=ilyee&theme=graywhite&show_icons=true)
-![SummartCards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilyee&theme=monokai)
